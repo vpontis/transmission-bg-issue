@@ -28,7 +28,7 @@ struct ContentView: View {
             LumaSheetModifier(
                 detents: [.medium, .large],
                 isPresented: $isPresented,
-                backgroundColor: UIColor("Background"),
+                backgroundColor: Color("Background"),
                 backgroundMaterial: nil,
                 destination: {
                     VStack {

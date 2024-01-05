@@ -4,7 +4,7 @@ import Transmission
 struct LumaSheetModifier<Destination: View>: ViewModifier {
     var detents: [PresentationLinkTransition.SheetTransitionOptions.Detent] = .init([.large])
     var isPresented: Binding<Bool>
-    var backgroundColor: UIColor? = nil
+    var backgroundColor: Color? = nil
     var backgroundMaterial: Material? = nil
     var largestUndimmedDetentIdentifier: PresentationLinkTransition.SheetTransitionOptions.Detent? = nil
 

@@ -22,7 +22,6 @@
 		577AD8F02B48A50800599B31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		577AD8F32B48A50800599B31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		577AD8FD2B48A5AE00599B31 /* Sheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sheet.swift; sourceTree = "<group>"; };
-		577AD8FF2B48B2E100599B31 /* Transmission */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = Transmission; path = ../../Transmission; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +39,6 @@
 		577AD8E02B48A50800599B31 = {
 			isa = PBXGroup;
 			children = (
-				577AD8FF2B48B2E100599B31 /* Transmission */,
 				577AD8FD2B48A5AE00599B31 /* Sheet.swift */,
 				577AD8EB2B48A50800599B31 /* transmission-bg */,
 				577AD8EA2B48A50800599B31 /* Products */,
